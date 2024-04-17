@@ -51,7 +51,7 @@ a {
     text-decoration-color: white;
 }
 
-a :hover {
+a:hover {
     color: grey;
     text-decoration: underline;
     text-underline-offset: 1rem;
@@ -62,6 +62,6 @@ a :hover {
     font-size: 2rem;
 }
 
-.logo :hover {
+.logo:hover {
     cursor: default;
 }
