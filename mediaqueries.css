@@ -6,6 +6,10 @@
     .about-containers {
         flex-wrap: wrap;
     }
+    #contact,
+    #projects {
+        height: fit-content;
+    }
 }
 
 @media screen and (max-width: 1200px) {
@@ -26,7 +30,8 @@
     .experience-details-container {
         margin-top: 2rem;
     }
-    #profile, .section-container {
+    #profile, 
+    .section-container {
       display: block;  
     }
     .arrow {
@@ -48,7 +53,8 @@
         margin-top: 0;
     }
 }
-@media screen and (max-width: 1600px) {
+
+/* @media screen and (max-width: 1600px) {
     #profile {
         height: 83vh;
         margin-bottom: 6rem;
@@ -88,7 +94,7 @@
         margin-top: 0;
     }
 }
-
+*/
 @media screen and (max-width: 600px) {
     #contact, 
     footer {
