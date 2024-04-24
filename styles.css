@@ -330,7 +330,7 @@ section {
 .experience-details-container {
     display: flex;
     justify-content: center;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
 }
 
