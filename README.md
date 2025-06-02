@@ -1,3 +1,6 @@
+
+![Screenshot 2024-04-18 142030](https://github.com/user-attachments/assets/2fa97c08-265d-4ec1-a0ab-3007e827b21b)
+
 # Professional Portfolio Website
 
 A responsive one-page website to showcase my professional web development portfolio which I built following a mobile-first approach. 
